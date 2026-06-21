@@ -1,2 +1,14 @@
 # baoweirank-journal
-HTML page archive and documentation
+
+页面归档与发布记录
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 文件记录
+
+- 根目录中的 HTML 文件为发布结果
+- README 用于说明当前仓库用途
+
+## 状态说明
+
+页面文件会按任务写入，仓库提交记录可用于查看变化。
